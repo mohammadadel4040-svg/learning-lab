@@ -1,1 +1,1 @@
-print("Hellow from week 1!")
+print("Hello from week 1!")
